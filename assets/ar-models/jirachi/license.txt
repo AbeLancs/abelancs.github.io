@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokemon 3DS Jirachi
+* source:	https://sketchfab.com/3d-models/pokemon-3ds-jirachi-13ccc2a308d845ad9cacdaf64942070e
+* author:	ijackprovostjr (https://sketchfab.com/ijackprovostjr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokemon 3DS Jirachi" (https://sketchfab.com/3d-models/pokemon-3ds-jirachi-13ccc2a308d845ad9cacdaf64942070e) by ijackprovostjr (https://sketchfab.com/ijackprovostjr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
